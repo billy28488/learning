@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: darkslategrey;
+    border: 3px solid lightgreen;
+    border-radius: 5px;
+}
+hr{
+    border: 2px solid silver;
+    border-radius: 5px;
+  }
+img{
+    border: 3px solid lime;
+
+  }
+nav a:hover,
+nav a:focus {
+      color: #036;
+      background-color: #fff;
+      border: 3px solid lime;
+  }
+  a{
+      color: limegreen;
+  }
